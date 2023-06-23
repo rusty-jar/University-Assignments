@@ -2,7 +2,7 @@
 Copyright (c) 2023 Shahibur Rahaman
 Licensed under GNU GPLv3
 
-Q|> Write a progam to calculate the sum of a given array.
+Q|> Write a program to calculate the sum of a given array.
 
 Constraints:
   - No. of elements in the set is 10.
