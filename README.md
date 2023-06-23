@@ -13,8 +13,9 @@
 <summary>SEMESTER-1</summary>
 
 | S. No. | Topic | Link |
-| :---: | :---: | :---: |
+| :---: | :--- | :---: |
 | 1. | Calculate the sum of a given array | [Assignment-1](/src/Sem-1/Assignment-1/main.c) |
+| 2. | Check for divisibility by 7 and 10 | [Assignment-2](/src/Sem-1/Assignment-2/main.c) |
 
 </details>
 
