@@ -2,7 +2,7 @@
 Copyright (c) 2023 Shahibur Rahaman
 Licensed under GNU GPLv3
 
-Q|> Write a program to show Fibonacci sequence upto the given nth term.
+Q|> Write a program to show Fibonacci sequence up to the given nth term.
 
 Constraints:
   - Input value is an element belonging to the set of whole numbers.
