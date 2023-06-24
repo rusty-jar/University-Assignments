@@ -17,7 +17,7 @@
 | 1. | Calculate the sum of a given array | [Assignment-1](/src/Sem-1/Assignment-1/main.c) |
 | 2. | Check for divisibility by 7 and 10 | [Assignment-2](/src/Sem-1/Assignment-2/main.c) |
 | 3. | Check for Odd and Even number | [Assignment-3](/src/Sem-1/Assignment-3/main.c) |
-| 3. | Calculate factorial of a given number | [Assignment-4](/src/Sem-1/Assignment-4/main.c) |
+| 4. | Calculate factorial of a given number | [Assignment-4](/src/Sem-1/Assignment-4/main.c) |
 
 </details>
 
