@@ -2,7 +2,7 @@
 Copyright (c) 2023 Shahibur Rahaman
 Licensed under GNU GPLv3
 
-Q|> Write a program to calculate factorial of the given number.
+Q|> Write a program to calculate factorial of a given number.
 
 Constraints:
   - Input value is an element belonging to the set of whole numbers.
