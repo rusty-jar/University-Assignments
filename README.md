@@ -18,6 +18,7 @@
 | 2. | Check for divisibility by 7 and 10 | [Assignment-2](/src/Sem-1/Assignment-2/main.c) |
 | 3. | Check for Odd and Even number | [Assignment-3](/src/Sem-1/Assignment-3/main.c) |
 | 4. | Calculate factorial of a given number | [Assignment-4](/src/Sem-1/Assignment-4/main.c) |
+| 5. | Show Fibonacci sequence up to nth term | [Assignment-5](/src/Sem-1/Assignment-5/main.c) |
 
 </details>
 
