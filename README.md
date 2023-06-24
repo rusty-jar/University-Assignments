@@ -19,6 +19,7 @@
 | 3. | Check for Odd and Even number | [Assignment-3](/src/Sem-1/Assignment-3/main.c) |
 | 4. | Calculate factorial of a given number | [Assignment-4](/src/Sem-1/Assignment-4/main.c) |
 | 5. | Show Fibonacci sequence up to nth term | [Assignment-5](/src/Sem-1/Assignment-5/main.c) |
+| 6. | Evaluate marks as per given conditions | [Assignment-6](/src/Sem-1/Assignment-6/main.c) |
 
 </details>
 

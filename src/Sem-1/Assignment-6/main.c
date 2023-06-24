@@ -2,9 +2,10 @@
 Copyright (c) 2023 Shahibur Rahaman
 Licensed under GNU GPLv3
 
-Q|> Write a program which will accept obtained marks in theory and practical, ...
-    the average marks will have the weightage of 60% in theory + 40% in practical.
-    Show result as Pass or Fail based on the following conditions:
+Q|> Write a program which will accept weightage for theory and practical exam...
+    separately from the user, and will also accept theory and practical marks...
+    separately.
+    Finally show the result as Pass or Fail based on the following conditions:
     - if avg >= 50 --> Pass
       else --> Fail
     also show the grades based on the following conditions:
@@ -14,7 +15,7 @@ Q|> Write a program which will accept obtained marks in theory and practical, ..
     - if avg < 50  -> F
 
 Constraints:
-  - Input values are elements belonging to the set of whole numbers.
+  - Input values are elements belonging to the set of positive rational numbers.
   - Sum of both theory and practical weightage is equal to 100.
   - Marks input for theory and practical exams lies within range of 0-100.
 */
@@ -91,7 +92,7 @@ int main(void)
   else {
     printf("Pass\n");
     printf("REMARKS: ");
-    printf("Passed in both Theoretical and Practical exams.");
+    printf("Passed in both theoretical and practical exams.");
   }
 
   printf("\n");
